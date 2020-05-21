@@ -18,7 +18,7 @@ About:
 
 ## Installation
 
-```
+```bash
 $> git clone https://github.com/anhtumai/airbnb-website-with-only-html-css.git
 $> cd airbnb-website-with-only-html-css
 $> google-chrome main.html
